@@ -1,0 +1,52 @@
+[16-Jan-2016 07:28:07 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 07:29:06 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 07:29:08 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 07:29:35 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 07:29:37 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:10:25 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:10:27 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:10:45 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:12:25 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:12:40 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:12:42 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:13:21 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:13:23 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:13:29 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[16-Jan-2016 08:14:50 UTC] PHP Fatal error:  Function name must be a string in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 40
+[29-Jan-2016 05:36:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 24
+[29-Jan-2016 05:36:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 24
+[29-Jan-2016 05:38:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 24
+[29-Jan-2016 05:38:44 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 10
+[29-Jan-2016 05:40:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 11
+[29-Jan-2016 05:40:55 UTC] PHP Fatal error:  Cannot use App\User as User because the name is already in use in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 8
+[29-Jan-2016 05:41:16 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 8
+[29-Jan-2016 11:21:03 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\table() in /home/ujwalkalra/public_html/app/Http/Controllers/JsonController.php on line 51
+[01-Feb-2016 09:50:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 3771385585 bytes) in /home/ujwalkalra/public_html/vendor/symfony/debug/ExceptionHandler.php on line 444
+[04-Feb-2016 11:22:46 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ujwalkalra/public_html/app/Http/Controllers/ServicesController.php on line 50
+[09-Mar-2016 09:09:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ujwalkalra/public_html/storage/framework/views/7e01fbe5975c869b968255b58ed5b03f on line 65
+[23-Mar-2016 12:29:00 UTC] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 14
+[23-Mar-2016 12:29:49 UTC] PHP Parse error:  syntax error, unexpected '"location"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 14
+[23-Mar-2016 12:31:34 UTC] PHP Parse error:  syntax error, unexpected '"location"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 14
+[23-Mar-2016 12:32:18 UTC] PHP Parse error:  syntax error, unexpected '"location"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 14
+[23-Mar-2016 12:33:00 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 14
+[23-Mar-2016 12:33:03 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 14
+[23-Mar-2016 12:33:38 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:33:59 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:03 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:08 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:25 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:27 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:28 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:29 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:30 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:38 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[23-Mar-2016 12:34:39 UTC] PHP Parse error:  syntax error, unexpected '"locations"' (T_CONSTANT_ENCAPSED_STRING) in /home/ujwalkalra/public_html/app/Http/routes.php on line 12
+[28-Mar-2016 06:40:20 UTC] PHP Fatal error:  Call to a member function paginate() on a non-object in /home/ujwalkalra/public_html/app/Http/Controllers/ServicesController.php on line 33
+[28-Mar-2016 06:40:24 UTC] PHP Fatal error:  Call to a member function paginate() on a non-object in /home/ujwalkalra/public_html/app/Http/Controllers/ServicesController.php on line 33
+[28-Mar-2016 06:40:53 UTC] PHP Fatal error:  Call to a member function paginate() on a non-object in /home/ujwalkalra/public_html/app/Http/Controllers/ServicesController.php on line 33
+[28-Mar-2016 06:42:17 UTC] PHP Fatal error:  Call to a member function paginate() on a non-object in /home/ujwalkalra/public_html/app/Http/Controllers/ServicesController.php on line 34
+[05-Apr-2016 11:26:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/ujwalkalra/public_html/app/Http/Controllers/BlogController.php on line 28
+[05-Apr-2016 11:29:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/ujwalkalra/public_html/app/Http/Controllers/BlogController.php on line 28
+[05-Apr-2016 11:30:40 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/ujwalkalra/public_html/app/Http/Controllers/BlogController.php on line 28
+[05-Apr-2016 11:33:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/ujwalkalra/public_html/app/Http/Controllers/BlogController.php on line 28
+[05-Apr-2016 11:56:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/ujwalkalra/public_html/app/Http/Controllers/BlogController.php on line 28

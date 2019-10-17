@@ -1,0 +1,79 @@
+﻿/* Tab Content - menucool.com */
+
+ul.tabs
+{
+    padding: 7px 0;
+    font-size: 0;
+    margin:0;
+    list-style-type: none;
+    text-align: left; /*set to left, center, or right to align the tabs as desired*/
+}
+        
+ul.tabs li
+{
+    display: inline;
+    margin: 0;
+    margin-right:2px; /*distance between tabs*/
+}
+        
+ul.tabs li a
+{
+    font: normal 12px Helvetica;    
+    text-decoration: none;
+    position: relative;
+    padding: 7px 16px;
+    border: 1px solid #CCC;
+    border-bottom-color:#B7B7B7;
+    color: #000;
+    background: #F0F0F0 url(tabbg.gif) 0 0 repeat-x;
+    border-radius: 5px 5px 0 0;
+    outline:none;-webkit-box-shadow: -3px 0px 0px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px 0px 0px -1px rgba(0,0,0,0.75);
+box-shadow: -3px 0px 0px -1px rgba(0,0,0,0.75);
+
+}
+        
+ul.tabs li a:visited
+{
+    color: #000;
+}
+        
+ul.tabs li a:hover
+{
+    border: 1px solid #B7B7B7;
+    background:#F0F0F0 url(tabbg.gif) 0 -36px repeat-x;
+    background-color: #ffffff;
+  
+    
+}
+        
+ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+    position: relative;
+    top: 0px;
+    font-weight:bold;
+    background:#fef7e6;
+    border-left: 2px solid #F5D5F2;
+    border-right: 2px solid #F5D5F2;
+    border-top: 2px solid #F5D5F2;
+    border-bottom: 2px solid #fef7e6;
+    z-index: 100;
+}
+        
+        
+ul.tabs li.selected a:hover
+{
+    text-decoration: none;
+}
+     
+
+div.tabcontents
+{
+    padding: 30px;
+    background-color:#FFF;
+    border: 2px solid #F5D5F2;
+    border-radius: 0 3px 3px 3px;
+    -webkit-box-shadow: -9px 10px 18px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -9px 10px 18px 0px rgba(0,0,0,0.75);
+box-shadow: -9px 10px 18px 0px rgba(0,0,0,0.75);
+}
